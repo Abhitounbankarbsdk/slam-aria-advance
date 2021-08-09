@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/github/license/vincreator/Eunha-Mirror-bot)
 [![Channel](https://img.shields.io/badge/Channel-blue)](https://t.me/Namexian)
 
-**Eunha Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**Anshu mirror bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Features supported:
 <details>
