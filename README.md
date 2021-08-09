@@ -1,5 +1,5 @@
 
-# Eunha Mirror Bot
+# Anshu mirror bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/vincreator/Eunha-Mirror-bot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/vincreator/Eunha-Mirror-bot?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/vincreator/Eunha-Mirror-bot)
